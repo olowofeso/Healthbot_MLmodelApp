@@ -4,7 +4,7 @@ import requests
 import json
 
 # OpenRouter API Configuration
-OPENROUTER_API_KEY = "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"  # Replace with your OpenRouter API key
+OPENROUTER_API_KEY = "*******"  # Replace with your OpenRouter API key
 OPENROUTER_API_URL = "https://openrouter.ai/api/v1/chat/completions"
 MODEL_NAME = "deepseek/deepseek-r1-zero:free"  # Use the appropriate model
 
